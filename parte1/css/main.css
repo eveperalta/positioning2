@@ -13,5 +13,10 @@
 	bottom: 150px;
 	left: 150px;
 	right: 150px;
-
+}
+.amarillo {
+	background-color: #F7FF28;
+	width: 150px;
+	height: 150px;
+	position: absolute;
 }
