@@ -1,0 +1,17 @@
+.contenedor {
+	background-color: #F84634;
+	width: 600px;
+	height: 600px;
+	position: static;
+}
+.morado {
+	background-color: #95047B;
+	width: 300px;
+	height: 300px;
+	position: absolute;
+	top: 150px;
+	bottom: 150px;
+	left: 150px;
+	right: 150px;
+
+}
